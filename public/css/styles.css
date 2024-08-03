@@ -1,0 +1,29 @@
+/* styles.css */
+.image-container {
+    text-align: center;
+}
+
+#uploadedImage {
+    max-width: 400px;
+    max-height: 400px;
+    margin: auto;
+}
+
+#uploadContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#recognizeButton {
+    margin-top: 10px;
+}
+
+#userCardContainer {
+    margin-top: 20px;
+}
+
+.user-card {
+    max-width: 500px;
+    margin: auto;
+}
