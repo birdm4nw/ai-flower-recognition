@@ -14,3 +14,5 @@ rose and sunflower.
 
 ## Results
 ![Prediction](https://github.com/birdm4nw/ai-flower-recognition/blob/main/2024-08-03_03-33_1.png)
+
+**Author:** @birdm4nw
